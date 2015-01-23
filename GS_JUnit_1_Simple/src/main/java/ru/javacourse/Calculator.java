@@ -21,4 +21,8 @@ public class Calculator {
         return a / b;
     }
 
+    public int sqrt(int i) {
+        return i * i;
+    }
+
 }
